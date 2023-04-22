@@ -1,9 +1,6 @@
-# Museum-of-Candy
+# [Museum of Candy](https://candymuseum.vercel.app/)
 
 The Museum of Candy project is an immersive and interactive experience that takes visitors on a journey through the history and evolution of candy. It showcases various exhibits featuring candy-inspired art installations, interactive displays, and historical artifacts.
-
-# [Restaurant-Order-Food](https://foodres.vercel.app/)
-Its a mock website which is a restaurant ordering website, a perfect solution for customers who want to order food online from their favorite restaurants. With a user-friendly interface, customers can easily browse menus, select items, and place orders for delivery or pickup.
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a8b2f168836769.6441746e539e8.png"/>
 
